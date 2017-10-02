@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cml_translations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 11:00+0100\n"
+"PO-Revision-Date: 2017-05-03 11:00+0100\n"
+"Last-Translator:   <volodya.vardanyan.93i@gmail.com>\n"
+"Language-Team: \n"
+"Language: %LOCALE%\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: CeceppaMultilingua 1.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../inc\n"
+
+msgid "__cml_lang_1__356"
+msgstr "a:4:{s:2:\"en\";s:3:\"356\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"356\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__357"
+msgstr "a:4:{s:2:\"en\";s:3:\"357\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"357\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__123"
+msgstr "a:4:{s:2:\"en\";s:3:\"123\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"123\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__124"
+msgstr "a:4:{s:2:\"en\";s:3:\"124\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"124\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__125"
+msgstr "a:4:{s:2:\"en\";s:3:\"125\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"125\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__115"
+msgstr "a:4:{s:2:\"en\";s:3:\"115\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"115\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__348"
+msgstr "a:4:{s:2:\"en\";s:3:\"348\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"348\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__111"
+msgstr "a:4:{s:2:\"en\";s:3:\"111\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"111\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__974"
+msgstr "a:4:{s:2:\"en\";s:3:\"974\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"974\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__297"
+msgstr "a:4:{s:2:\"en\";s:3:\"297\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"297\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__1183"
+msgstr "a:4:{s:2:\"en\";s:4:\"1183\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:4:\"1183\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__140"
+msgstr "a:4:{s:2:\"en\";s:3:\"140\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"140\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__293"
+msgstr "a:4:{s:2:\"en\";s:3:\"293\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"293\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__107"
+msgstr "a:4:{s:2:\"en\";s:3:\"107\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"107\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__351"
+msgstr "a:4:{s:2:\"en\";s:3:\"351\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"351\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__109"
+msgstr "a:4:{s:2:\"en\";s:3:\"109\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"109\";}s:6:\"linked\";a:0:{}}"
+
+msgid "__cml_lang_1__105"
+msgstr "a:4:{s:2:\"en\";s:3:\"105\";s:2:\"ru\";s:1:\"0\";s:7:\"indexes\";a:1:{s:2:\"en\";s:3:\"105\";}s:6:\"linked\";a:0:{}}"
+
